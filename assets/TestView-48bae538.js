@@ -1,0 +1,1 @@
+import{d as s,u as o,o as a,c,f as e,t as n,e as r}from"./index-c0449809.js";const l={class:"flex flex-center flex-column bg-2-2"},_=e("div",{class:"txt-dark flex flex-center flex-column"},"TEST PAGE ",-1),f={class:"txt-dark"},p=s({__name:"TestView",setup(d){const t=o();return(i,u)=>(a(),c("div",l,[_,e("p",f," User: "+n(r(t).getUser),1)]))}});export{p as default};

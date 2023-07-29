@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o,c as r}from"./index-c0449809.js";const t={},c={class:"txt-dark flex flex-center bg-2-2"};function s(n,a){return o(),r("div",c,"Explore page")}const l=e(t,[["render",s]]);export{l as default};
